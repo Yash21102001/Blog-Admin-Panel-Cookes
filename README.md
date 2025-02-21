@@ -49,4 +49,4 @@ Feel free to **fork** the repository and submit **pull requests** with improveme
 ## 📜 License  
 This project is **open-source** and available under the **MIT License**.  
 
----  https://blog-admin-panel-cookes.onrender.com
+---  
